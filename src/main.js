@@ -3,3 +3,4 @@ import sayHi from './module'
 
 
 sayHi();
+console.log($);
